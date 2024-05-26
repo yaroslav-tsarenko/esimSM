@@ -1,0 +1,41 @@
+.become-reseller-form {
+  align-self: stretch;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+}
+.background-group,
+.become-reseller-form,
+.resseler {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background-group {
+  align-self: stretch;
+  height: 248px;
+  flex-shrink: 0;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.resseler {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  overflow-y: auto;
+  gap: 48px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1300px) {
+  .background-group {
+    height: auto;
+  }
+}
+@media screen and (max-width: 900px) {
+  .resseler {
+    gap: 24px;
+  }
+}

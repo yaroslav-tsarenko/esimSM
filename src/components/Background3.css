@@ -1,0 +1,290 @@
+.heading-5 {
+  position: relative;
+  line-height: 24px;
+}
+.features-headers {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 65px 0 67px;
+}
+.not-all-devices {
+  position: relative;
+  line-height: 20px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.description-item {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 10px;
+}
+.check-if-your {
+  margin-right: -0.2999999999999545px;
+  align-self: stretch;
+  position: relative;
+  line-height: 19.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.compatibility-link {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  min-width: 144px;
+}
+.compatibility,
+.compatible {
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.compatible {
+  position: relative;
+  text-decoration: underline;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 74px;
+}
+.compatibility {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  row-gap: 20px;
+  margin-top: -0.8px;
+}
+.compatibility,
+.devices,
+.devices1 {
+  display: flex;
+  justify-content: center;
+}
+.devices1 {
+  width: 48.1px;
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.2px;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 48.1px;
+  debug_commit: bf4bc93;
+}
+.devices {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 21px 0 20px;
+  margin-top: -0.8px;
+}
+.features-descriptions,
+.verticalborder {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.features-descriptions {
+  align-self: stretch;
+  align-items: flex-start;
+  font-size: 12.8px;
+}
+.verticalborder {
+  width: 330px;
+  border-right: 1px solid #fff;
+  box-sizing: border-box;
+  align-items: flex-end;
+  padding: 0 16px 16.1px 15px;
+  gap: 7.9px;
+  max-width: 100%;
+}
+.heading-51 {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  font-weight: 700;
+}
+.heading-5-keep-whatsapp-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 60px 0 61px;
+}
+.keep-your-whatsapp,
+.you-can-use {
+  display: block;
+}
+.keep-your-whatsapp-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 12.8px;
+  line-height: 19.2px;
+}
+.paragraphverticalborder {
+  width: 330px;
+  border-right: 1px solid #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 9.6px 18px 25.7px 17px;
+  gap: 7.9px;
+  max-width: 100%;
+}
+.heading-52 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 700;
+}
+.activation-title {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 30px 0 31px;
+}
+.activation-and-connect,
+.instantly-receive-your {
+  display: block;
+}
+.instantly-receive-your-container {
+  margin: 0;
+  position: relative;
+  font-size: 12.8px;
+  line-height: 19.2px;
+}
+.activation,
+.paragraphverticalborder1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.paragraphverticalborder1 {
+  border-right: 1px solid #fff;
+  align-items: flex-end;
+  padding: 9.6px 20px 25.7px 19px;
+  gap: 7.9px;
+}
+.activation {
+  align-items: flex-start;
+  padding: 0 16px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.heading-53 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 129px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.sim-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+}
+.no-need-to,
+.your-esim-with {
+  display: block;
+}
+.no-need-to-container {
+  margin: 0;
+  position: relative;
+  font-size: 12.8px;
+  line-height: 19.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.background1,
+.sim,
+.sim-content {
+  display: flex;
+  justify-content: flex-start;
+}
+.sim-content {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 7.9px;
+}
+.background1,
+.sim {
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.sim {
+  width: 296.6px;
+  flex-direction: column;
+  padding: 9.6px 0 0;
+}
+.background1 {
+  align-self: stretch;
+  background-color: #ba247e;
+  flex-direction: row;
+  padding: 48px 300px;
+  row-gap: 20px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 20px;
+  color: #fff;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1800px) {
+  .background1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .background1 {
+    padding-left: 150px;
+    padding-right: 150px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .background1 {
+    padding-left: 75px;
+    padding-right: 75px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-5 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .features-headers {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .compatibility {
+    flex-wrap: wrap;
+  }
+  .heading-51 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .heading-5-keep-whatsapp-wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .heading-52,
+  .heading-53 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+}

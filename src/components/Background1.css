@@ -1,0 +1,146 @@
+.heading-2 {
+  position: relative;
+  line-height: 38.4px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 71px;
+}
+.f-a-q-heading {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.read-the-answers {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #212529;
+}
+.f-a-q-title {
+  width: 661.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8.7px;
+  max-width: 100%;
+}
+.f-a-q-container,
+.questions-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.f-a-q-container {
+  width: 1296px;
+}
+.questions-container {
+  align-self: stretch;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+.cannot-find-the {
+  margin: 0;
+  position: relative;
+  line-height: 24px;
+}
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.contact-us {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 87px;
+}
+.background11,
+.link3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.link3 {
+  width: 112.3px;
+  border-radius: 25px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  justify-content: flex-start;
+  padding: 5px 10px 6px 13px;
+  white-space: nowrap;
+  text-align: center;
+  color: #ba247e;
+}
+.background11 {
+  align-self: stretch;
+  background-color: #ba247e;
+  justify-content: space-between;
+  padding: 16px;
+  max-width: 100%;
+  gap: 20px;
+  color: #fff;
+}
+.background10,
+.f-a-q-questions {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.f-a-q-questions {
+  width: 1296px;
+  align-items: flex-start;
+  gap: 24px;
+  text-align: left;
+  font-size: 16px;
+  color: #212529;
+}
+.background10 {
+  align-self: stretch;
+  background-color: #fff;
+  align-items: center;
+  padding: 71.3px 20px 72px;
+  box-sizing: border-box;
+  gap: 40px;
+  text-align: center;
+  font-size: 32px;
+  color: #000;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 925px) {
+  .heading-2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .background11 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .background10 {
+    gap: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .background10 {
+    padding-top: 46px;
+    padding-bottom: 47px;
+    box-sizing: border-box;
+  }
+}

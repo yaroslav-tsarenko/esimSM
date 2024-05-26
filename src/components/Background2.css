@@ -1,0 +1,228 @@
+.roaming,
+.travel-without-worrying {
+  margin: 0;
+}
+.travel-without-worrying-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 48px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.choose-your-destination,
+.plans-to-avoid {
+  display: block;
+}
+.choose-your-destination-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #212529;
+  display: inline-block;
+  max-width: 100%;
+}
+.travel-without-worrying-about-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+  max-width: 100%;
+}
+.search-destination2 {
+  width: 188px;
+  border: 0;
+  outline: 0;
+  font-family: Montserrat;
+  font-size: 20px;
+  background-color: transparent;
+  height: 24px;
+  position: relative;
+  color: rgba(33, 37, 41, 0.75);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+.hero-search-input,
+.input3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.input3 {
+  align-self: stretch;
+  height: 48px;
+  border-radius: 8px 0 0 8px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  flex-direction: row;
+  padding: 11px 16px;
+}
+.hero-search-input {
+  height: 47px;
+  flex: 1;
+  flex-direction: column;
+  padding: 1px 0 0;
+  min-width: 346px;
+  max-width: 100%;
+}
+.search {
+  position: relative;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Montserrat;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 69px;
+}
+.button1 {
+  cursor: pointer;
+  border: 1px solid #ba247e;
+  padding: 7px 14px 7px 17px;
+  background-color: #ba247e;
+  width: 102.3px;
+  border-radius: 0 8px 8px 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.button1:hover {
+  background-color: #e04aa3;
+  border: 1px solid #e04aa3;
+  box-sizing: border-box;
+}
+.hero-search-container {
+  flex: 1;
+  flex-direction: row;
+  row-gap: 20px;
+}
+.hero-container,
+.hero-content,
+.hero-search,
+.hero-search-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.hero-search {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 1px;
+  box-sizing: border-box;
+}
+.hero-container,
+.hero-content {
+  flex-direction: column;
+}
+.hero-content {
+  align-self: stretch;
+  gap: 16.5px;
+}
+.hero-container {
+  width: 636px;
+  padding: 196px 0 0;
+  box-sizing: border-box;
+  min-width: 636px;
+}
+.travellerwebp-icon {
+  width: 561px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  max-width: 100%;
+}
+.background {
+  align-self: stretch;
+  background: linear-gradient(
+    180deg,
+    rgba(249, 239, 152, 0.2),
+    rgba(252, 108, 4, 0.2)
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px 312px;
+  box-sizing: border-box;
+  gap: 61.5px;
+  max-width: 100%;
+  margin-top: -1px;
+  text-align: left;
+  font-size: 40px;
+  color: #000;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1800px) {
+  .hero-container,
+  .travellerwebp-icon {
+    flex: 1;
+  }
+  .background {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .hero-container,
+  .hero-search-input {
+    min-width: 100%;
+  }
+  .background {
+    gap: 31px;
+    padding-left: 156px;
+    padding-right: 156px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 925px) {
+  .travel-without-worrying-container {
+    font-size: 32px;
+    line-height: 38px;
+  }
+  .hero-search-container {
+    flex-wrap: wrap;
+  }
+  .background {
+    gap: 15px;
+    padding-left: 78px;
+    padding-right: 78px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .travel-without-worrying-container {
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .search,
+  .search-destination2 {
+    font-size: 16px;
+  }
+  .search {
+    line-height: 24px;
+  }
+  .button1 {
+    margin-left: 0;
+  }
+  .hero-container {
+    padding-top: 24px;
+    box-sizing: border-box;
+  }
+  .background {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

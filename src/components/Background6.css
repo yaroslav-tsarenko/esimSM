@@ -1,0 +1,180 @@
+.heading-22 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 38.4px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-59 {
+  position: relative;
+  line-height: 24px;
+}
+.ceny-detalicznej-i,
+.dedykowanego-rabatu-w,
+.jako-reseller-masz,
+.wyboru-ceny-odsprzeday {
+  display: block;
+}
+.jako-reseller-masz-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #212529;
+}
+.reason-items {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7.5px;
+}
+.brak-minimalnego,
+.zamwienia {
+  margin: 0;
+}
+.brak-minimalnego-zamwienia-container {
+  position: relative;
+  line-height: 24px;
+}
+.bez-minimalnego-zamwienia,
+.moesz-rozpocz-sprzeda {
+  display: block;
+}
+.moesz-rozpocz-sprzeda-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #212529;
+}
+.reason-items1 {
+  flex: 0.9735;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 8px 0 0;
+  gap: 7.5px;
+}
+.heading-510 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 700;
+}
+.krajw,
+.regionalne-zamiast-poszczegln,
+.trwania-planu-wybierz,
+.zwiksz-gigabajty-wydu {
+  display: block;
+}
+.zwiksz-gigabajty-wydu-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #212529;
+}
+.reason-items2 {
+  flex: 0.9437;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 17px 0 0;
+  gap: 7.5px;
+}
+.heading-511 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 123px;
+}
+.nasz-zesp-jest,
+.pomc-ci-w,
+.pyta-lub-problemw {
+  display: block;
+}
+.nasz-zesp-jest-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #212529;
+}
+.background15,
+.reason-items3,
+.reasons-grid {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.reason-items3 {
+  flex: 1;
+  flex-direction: column;
+  gap: 7.5px;
+}
+.background15,
+.reasons-grid {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.reasons-grid {
+  height: 97.6px;
+  flex-direction: row;
+  padding: 0;
+  gap: 28.1px;
+  font-size: 20px;
+  color: #ba247e;
+}
+.background15 {
+  background-color: #f7f4f9;
+  flex-direction: column;
+  padding: 47.3px 312px 94.4px;
+  gap: 64.7px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #000;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1300px) {
+  .background15 {
+    gap: 32px;
+    padding-left: 156px;
+    padding-right: 156px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .heading-22 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .background15 {
+    gap: 16px;
+    padding-left: 78px;
+    padding-right: 78px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-22 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .brak-minimalnego-zamwienia-container,
+  .heading-510,
+  .heading-511,
+  .heading-59 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+}

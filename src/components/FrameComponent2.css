@@ -1,0 +1,106 @@
+.bardzo-wysoki-i,
+.niespodziankami,
+.redni-koszt-przegldania,
+.szytym-na-miar {
+  display: block;
+}
+.redni-koszt-przegldania-container {
+  margin: 0;
+  position: relative;
+  line-height: 24px;
+}
+.co-si-stanie,
+.danych {
+  margin: 0;
+}
+.co-si-stanie-container {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 28.8px;
+  font-weight: 700;
+  color: #ba247e;
+  display: inline-block;
+  max-width: 100%;
+}
+.przedua-ywotno-wirtualne,
+.sprzedawanymi-esim-ami-doado,
+.z-panelu-resellera {
+  display: block;
+}
+.z-panelu-resellera-container {
+  margin: 0;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 100%;
+}
+.benefit-card,
+.benefits-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.benefit-card {
+  justify-content: flex-start;
+  gap: 16.1px;
+}
+.benefits-cards {
+  justify-content: flex-end;
+  padding: 0 0 18.8px;
+  box-sizing: border-box;
+  min-width: 617px;
+}
+.refillwebp-icon {
+  width: 382.7px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 100%;
+}
+.benefits-content,
+.benefits-content-wrapper {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.benefits-content {
+  width: 1169.3px;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+}
+.benefits-content-wrapper {
+  width: 1793.3px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #212529;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1300px) {
+  .benefits-cards,
+  .refillwebp-icon {
+    flex: 1;
+  }
+  .benefits-content {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 900px) {
+  .benefits-cards {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .co-si-stanie-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

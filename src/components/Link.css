@@ -1,0 +1,69 @@
+.europepng-icon {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.destination-images {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24.6px 0 0;
+}
+.from-420,
+.heading-54 {
+  position: relative;
+  display: inline-block;
+}
+.heading-54 {
+  line-height: 20px;
+  font-weight: 700;
+  min-width: 61px;
+}
+.from-420 {
+  line-height: 24px;
+  color: #535353;
+  min-width: 87.3px;
+}
+.destination-titles,
+.destination-titles-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.destination-titles {
+  gap: 7.3px;
+}
+.destination-titles-container {
+  flex: 1;
+  padding: 14.9px 0 0;
+}
+.background-icon {
+  height: 81.2px;
+  width: 19px;
+  position: relative;
+  border-radius: 0 20px 20px 0;
+}
+.link {
+  align-self: stretch;
+  border-radius: 20px;
+  background: linear-gradient(
+    180deg,
+    rgba(249, 239, 152, 0.2),
+    rgba(252, 108, 4, 0.2)
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 15px;
+  gap: 10px;
+  text-align: left;
+  font-size: 16px;
+  color: #ba247e;
+  font-family: Montserrat;
+}
